@@ -1,7 +1,7 @@
 # 1 SSDATFO
 Repository for the paper: Style-Guided Source Data Augmentation and Target Feature Optimization for Cross-Domain Few-Shot Image Classification
 
-The code is currently undergoing organization and will be released in the near future.
+The code is currently undergoing organization, and only a portion of it has been released. The complete code will be made available in the near future.
 
 # 2 Setup 
 ## 2.1 conda env & code
